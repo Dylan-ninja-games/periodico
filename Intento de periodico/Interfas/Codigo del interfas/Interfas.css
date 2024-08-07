@@ -1,0 +1,108 @@
+body{
+    font-size: 20px;
+    margin: 0;
+    background: linear-gradient(to left, #235,#c4c3bf, #235);
+}
+#titulo_periodico{
+    color: #bf9d56;
+    font-family: "Old English Text MT";
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.5em;
+    padding-left: 30px;
+    letter-spacing: 13px;
+    margin-top: 15px;
+    background-color: #235;
+    width: 100;
+    text-shadow: 5px 0 28px#c4c3bf ;
+}
+#bienvenida{
+    background-color: #e5e2db;
+    font-family: "Engravers MT";
+    text-align: center;
+    border: #bf9d56;
+    border-style: solid;
+    font-size: 25px;
+    margin: 15px 90px;
+    box-shadow: 0 0 15px 10px#eaeae7;
+}
+.subtitulo{
+    color: #bf9d56;
+    font-family: "Bodoni MT Black";
+    text-align: center;
+    font-size: 1.9em;
+    text-transform: capitalize;
+    background-color: #235;
+    padding-left: 30px;
+}
+
+.imagen_periodico{
+    width: 450px;
+    height: 235px;
+    margin: 0 25px;
+    padding: 15px 25px;
+}
+.noticia{
+    background-color: #d4d1c9;
+    border-color: #bfbeb8;
+    box-shadow:0 0 15px 5px #7f7f7c;
+    border-left: 5px;
+    border-style: solid;
+    margin: 15px 55px;
+    padding: 15px;
+    width: 550px;
+    height: 675px;
+    text-align: justify;
+    box-sizing: content-box;
+    display: inline-block;
+}
+.titulo_de_la_noticia{
+    color: #222;
+    font-family: Broadway;
+    font-size: 1.29em;
+    text-decoration: none;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.fecha_y_autor{
+    color: #7f7f7c;
+    font-family: 'Lucida Sans';
+    font-size: 1em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.vistazo_de_la_noticia{
+    width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: justify;
+    margin-top: 5px;
+}
+.separador_link{
+    height: 300px;
+    width: 1500px;
+    font-size: 2.3em;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #e5e2db;
+    box-shadow: 0 0 15px 5px #706d6d;
+    border-style: solid;
+    border-color: #222;
+    border-width: 0 0 0 7px ;
+    box-sizing:border-box;
+}
+p{
+    margin: 0;
+}
+.enlace{
+    color: #222;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: "Bodoni MT Black";
+    padding: auto;
+}
+.imagen_otra_noticia{
+    padding: 5px 450px;
+    height: 200px;
+    width: 500px;
+}
